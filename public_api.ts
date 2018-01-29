@@ -1,0 +1,1 @@
+export * from './src/app/components/headline/headline.module';
